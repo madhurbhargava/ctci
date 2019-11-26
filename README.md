@@ -12,4 +12,4 @@
 
 | Sn           | Chapter 4 - Trees & Graphs           |
 |-------------|-------------| 
-|1| [All possible palindromic partitions of given string](https://github.com/madhurbhargava/recursion/blob/master/all_possible_palindromic_partitions_of_given_string.java) |
+|4.5| [Validate BST](https://github.com/madhurbhargava/ctci/blob/master/c4_5.java) |
